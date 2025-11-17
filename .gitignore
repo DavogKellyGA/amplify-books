@@ -1,0 +1,14 @@
+# dependencies
+node_modules/
+.vite/
+dist/
+
+# Amplify local stuff
+.amplify/
+amplify_outputs.json
+
+# logs / misc
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log

@@ -7,13 +7,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@aws-amplify/backend": "^1.18.0",
+    "@aws-amplify/backend-data": "^1.6.2",
     "aws-amplify": "^6.0.0",
     "react": "^18.3.0",
     "react-dom": "^18.3.0"
   },
   "devDependencies": {
+    "@aws-amplify/cli": "^14.2.2",
     "@vitejs/plugin-react": "^4.0.0",
     "ampx": "^0.2.3",
-    "vite": "^5.0.0"
+    "vite": "^7.2.2"
   }
 }
